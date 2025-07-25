@@ -9,36 +9,40 @@
 </div>
 
 <br/>
-<h1 align="center">Mohammed Rehan</h1>
-<h3 align="center">A passionate & results-driven Data Scientist and Business Analyst.</h3>
+<h1 align="center">Syed Afreethi D</h1>
+<h3 align="center">A passionate & results-driven Machine Learning Engineer</h3>
 
 ---
 ## Skills :hammer_and_pick:
 
-- **Programming Languages:** Python, SQL
-- **Data Analysis:** Excel, pandas, matplotlib, seaborn, statsmodels
-- **Data Visualization:** Tableau, Power BI
-- **Machine Learning:** scikit-learn, Prophet
-- **Business Intelligence:** Data modeling, visualization, statistical analysis
+- **Programming Languages:** Python, HTML, CSS, Java
+- **Data Visualization:** Power BI
+- **Machine Learning:** scikit-learn, numpy, pandas, seaborn
 
 ---
 
-## Work Experience 💼
-- **Programmer Analyst Trainee at Cognizant Technology Solutions**
-  - **Duration:** October 2024 - Present
+## Internships
+- **Machine Learning at Teachnook**
+  - **Duration:**  01/06/2024 - 30/06/2024
   - **Responsibilities:**
-      - Cyber Security.
-      - Integrated Threat Management.
-      - Java & python.
+      - Developed and implemented the ml models to analyze the large datasets for improve the predicting accuracy
+      - Utilized Python and TensorFlow to build neural networks for image classification tasks
+      - Analyzed large datasetes to identify trends and patterns in customer behaviors.
 
 
-- **Data Analyst Intern at IIIT Allahabad**
-  - **Duration:** October 2022 – January 2023
+- **Data Analytics at NoviTech R&D Pvt Ltd**
+  - **Duration:** 30/05/2024 - 03/07/2024
   - **Responsibilities:**
-    - Applied machine learning algorithms, including Random Forest, Support Vector Machines (SVM), and Convolutional Neural Networks (CNN), to analyze and interpret complex datasets.
-    - Utilized remote sensing tools such as Snap, ENVI, and ArcGIS to process and analyze geographical and spatial data.
-    - Conducted data cleaning, preprocessing, and transformation to ensure the quality and accuracy of the datasets used for machine learning models.
-    - Performed exploratory data analysis (EDA) to uncover patterns and insights from large datasets, aiding in the development of predictive models.
+    - Gained hands-on experience in PowerBI, increasing proficiency and expanding technical skill set.
+    - Collected and sorted the input information into database system.
+    - Sorted and organized files, spreadsheets, and reports.
+
+
+- **Web Development at Internshala Trainings**
+  - **Duration:** OCT 2023 - DEC 2023
+  - **Responsibilities:**
+    - Developed responsive web applications using HTML,CSS, and JavaScript, ensuring  compatiability across various devices and browsers.
+    - Developed user-friendly websites by implementing responsive web design techniques and ensuring cross-browser compatiability.
     
 ---
 
@@ -60,13 +64,13 @@
 
 ## Education 🎓
 
-- **Bachelor's in Artificial Intelligence and Data Science (2020-2024)**
-  - Achieved a GPA of 8.94
-  - Coursework: Machine Learning, Data Science, Deep Learning, Big data tools and Techniques, Data Visualisation using Tableau, Data Structures and Algorithms (using C), Probability and Statistics in CS (Python), Linear Algebra for Machine Learning (Python)
+- **Bachelor of Technology (B.Tech) in Computer Science and Engineering (Artificial Intelligence and Machine Learning) at Hindustan Institute of Technology and Science**
+  - Expected in July 2026
+  - Achieved a GPA of 8.20
+  
     
-- **Deeksha PU College (2018-2020)**
-  - Achieved 92% (PCMB)
-  - Coursework: Physics, Chemistry, Mathematics, Biology
+- **Saraswathi Matric Hr Sec School**
+  
 ---
 
 
